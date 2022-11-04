@@ -7,6 +7,7 @@
 // @match        http://c.gb688.cn/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gb688.cn
 // @grant        none
+// @require      https://code.jquery.com/jquery-3.6.0.min.js
 
 // ==/UserScript==
 
